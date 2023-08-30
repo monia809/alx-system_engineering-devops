@@ -1,3 +1,3 @@
 #!/bin/bash
-0(tab)string(tab)SCHOOL(tab)School(space)data  
- !:mime(space)Schoo
+0       string  SCHOOL  School data
+!:mime School
